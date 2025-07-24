@@ -1,4 +1,5 @@
 Overview
+
 This project features an interactive global sales dashboard for Amazon, visualizing key sales and profit analytics across multiple years (2012–2015). The dashboard was designed to provide clear insights into segments, markets, product performance, and customer profitability, supporting data-driven decision-making for stakeholders.
 
 Features
