@@ -51,7 +51,3 @@ Product-level and customer-level dashboards help identify actionable trends and 
 Screenshot
 [![Amazon Global Sales Dashboard License](https://github.com/Biswajitsahoo51/Amazon-Dashboard/blob/main/Snapshot%20of%20Dashboard.png)
 
-This project is for demonstration and educational purposes. Please ensure any public or commercial use complies with Amazon's data use policies.
-
-Contact
-For questions, suggestions, or collaboration opportunities, please contact [hey.jeet018@gmail.com].# Amazon-Dashboard
